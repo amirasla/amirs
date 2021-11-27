@@ -1,6 +1,6 @@
 [
   {
-    "عکس": "https://www.google.com/imgres?imgurl\u003dhttps%3A%2F%2Fmiro.medium.com%2Fmax%2F300%2F0*h7xD-B7vanLQYWfp.jpg\u0026imgrefurl\u003dhttps%3A%2F%2Fmedium.com%2F%40picofun24%2F%25D8%25B9%25DA%25A9%25D8%25B3-%25D9%25BE%25D8%25B1%25D9%2588%25D9%2581%25D8%25A7%25DB%258C%25D9%2584-%25D9%25BE%25DB%258C%25DA%25A9%25D9%2588%25D9%2581%25D8%25A7%25D9%2586-f5a72f0e0079\u0026docid\u003dKh2IWfGZ8ASi2M\u0026tbnid\u003dLEjEdpHbeFMAtM\u0026vet\u003d1\u0026w\u003d300\u0026h\u003d300\u0026hl\u003dfa-IR\u0026source\u003dsh%2Fx%2Fim",
-    "فیلم": "https://www.google.com/imgres?imgurl\u003dhttps%3A%2F%2Fmiro.medium.com%2Fmax%2F300%2F0*h7xD-B7vanLQYWfp.jpg\u0026imgrefurl\u003dhttps%3A%2F%2Fmedium.com%2F%40picofun24%2F%25D8%25B9%25DA%25A9%25D8%25B3-%25D9%25BE%25D8%25B1%25D9%2588%25D9%2581%25D8%25A7%25DB%258C%25D9%2584-%25D9%25BE%25DB%258C%25DA%25A9%25D9%2588%25D9%2581%25D8%25A7%25D9%2586-f5a72f0e0079\u0026docid\u003dKh2IWfGZ8ASi2M\u0026tbnid\u003dLEjEdpHbeFMAtM\u0026vet\u003d1\u0026w\u003d300\u0026h\u003d300\u0026hl\u003dfa-IR\u0026source\u003dsh%2Fx%2Fim"
+    "لینک عکس": "https://images.app.goo.gl/xHe2zzvkrpr4kXnLA",
+    "لینک ویدیو": "https://images.app.goo.gl/xHe2zzvkrpr4kXnLA"
   }
 ]
